@@ -1,0 +1,14 @@
+
+implementation 'com.africastalking:africastalking-java:VERSION_NUMBER'
+
+
+// repositories {
+//   maven {
+//     url  "https://jitpack.io"
+//   }
+// }
+
+// dependencies{
+//   // Get all services
+//   implementation 'com.github.AfricasTalkingLtd.africastalking-java:core:{VERSION}'
+// }
